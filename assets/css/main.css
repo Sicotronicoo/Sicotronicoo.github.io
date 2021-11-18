@@ -29,6 +29,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+	.migas{
+		height: 10em;
+		width: 20em;
+	}
 body {
 	line-height: 1;
 }
